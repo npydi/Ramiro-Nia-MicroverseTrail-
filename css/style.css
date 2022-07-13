@@ -1,15 +1,6 @@
-#title_css{
+#title_css {
     text-align: center;
     background-color: gray;
     padding: 1%;
 
-}
-
-#img-caption{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    margin-top: 0.5%;
-    max-width: 50%;
 }
