@@ -4,3 +4,29 @@
     padding: 1%;
 
 }
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 0.5%;
+    max-width: 50%;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+#containerul {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#link{
+    text-align: center;
+}
