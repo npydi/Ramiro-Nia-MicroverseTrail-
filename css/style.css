@@ -13,3 +13,15 @@
     margin-top: 0.5%;
     max-width: 50%;
 }
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+#tribute-info li {
+    text-align: center;
+}
