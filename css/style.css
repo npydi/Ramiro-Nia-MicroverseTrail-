@@ -11,22 +11,37 @@
     margin-right: auto;
     width: 50%;
     margin-top: 0.5%;
+    margin-bottom: 0.5%;
     max-width: 50%;
 }
 
 #img-caption {
-    text-align: center;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    
 }
 
 #tribute-info {
     text-align: center;
 }
 
+#backg{
+    background-color: beige;
+}
+
 #containerul {
+    text-align: justify;
     margin-left: 20%;
     margin-right: 20%;
+    margin-bottom: 1%;
+    padding: 3%;
 }
 
 #link {
+    background-color: beige;
     text-align: center;
+    margin-bottom: 5%;
+    padding: 3%;
 }
